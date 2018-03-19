@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace SouthBoundAPI1
 {
 
-    // IoT Node Model
+    // IoT Node 
     public class IoTNode
     {
         public string Name;
